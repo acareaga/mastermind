@@ -5,10 +5,10 @@ title: Mastermind
 
 Scores:
 
-Fundamental Ruby and Style - 3
-Enumerable & Collections - 2
-REPL Interface and Game Functionality - 2
-Breaking Logic into Components - 3
+* Fundamental Ruby and Style - 3
+* Enumerable & Collections - 2
+* REPL Interface and Game Functionality - 2
+* Breaking Logic into Components - 3
 
 In this project you'll use Ruby to build an implementation of the classic game Mastermind.
 
